@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Coding Test 5</string>
+    <string name="intent_query_key">query</string>
+</resources>
